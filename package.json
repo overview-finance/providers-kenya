@@ -1,0 +1,32 @@
+{
+  "name": "providers-kenya",
+  "version": "1.0.0",
+  "description": "Get the provider from a phone number in Kenya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overview-finance/providers-kenya.git"
+  },
+  "keywords": [
+    "kenya",
+    "telecommunications",
+    "network",
+    "phone",
+    "phone",
+    "number",
+    "safaricom",
+    "airtel",
+    "telkom",
+    "faiba",
+    "equitel"
+  ],
+  "author": "Charles-Axel Pauwels <charles@overview.finance> (https://overview.finance)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/overview-finance/providers-kenya/issues"
+  },
+  "homepage": "https://github.com/overview-finance/providers-kenya#readme"
+}
